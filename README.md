@@ -1,2 +1,4 @@
 # apnacollege
-this is my first git reprosetry
+This is my first reprository
+Author - Harsh Kapil
+
